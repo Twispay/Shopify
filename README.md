@@ -112,3 +112,12 @@ This project provides a centralized server to handle Twispay's Instant Payment N
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
     
+## Updates
+- Renamed `redirect_example.js` to `redirect_secure.js` and enhanced its logic.
+- Added a `styles/checkout.css` file for checkout styling.
+
+### Additional Updates
+- Added `config.js` for centralized configuration.
+- Updated `redirect_secure.js` to use modularized functions and the configuration file.
+- Improved `styles/checkout.css` with mobile responsiveness and success/error message styles.
+- Added a `sample_checkout.html` for testing and demonstration.
